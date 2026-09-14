@@ -49,7 +49,7 @@
   body {
 	margin:0;
 	padding:0;
-	background-color:#ffffff;
+  	background-image: url('https://raw.githubusercontent.com/southiewusky/littlelink/refs/heads/main/images/background.jpg');
 	color:#1a1a1a;
 	font-family:"Open Sans",system-ui;
     font-weight:400;
