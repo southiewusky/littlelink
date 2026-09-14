@@ -50,6 +50,9 @@
 	margin:0;
 	padding:0;
   	background-image: url('https://raw.githubusercontent.com/southiewusky/littlelink/refs/heads/main/images/background.jpg');
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 	color:#1a1a1a;
 	font-family:"Open Sans",system-ui;
     font-weight:400;
