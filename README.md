@@ -32,7 +32,7 @@ No need for gulp, npm, or anything else to make LittleLink work—it uses the ba
 
 [![Deploy to Cloudflare](https://cdn.cottle.cloud/littlelink/button-deploy-cloudflare.svg)](https://deploy.workers.cloudflare.com/?url=https://github.com/sethcottle/littlelink)
 
-[![Deploy to DigitalOcean](https://cdn.cottle.cloud/littlelink/button-deploy-digitalocean.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/sethcottle/littlelink/tree/main)
+[![Deploy to DigitalOcean](https://cdn.cottle.cloud/littlelink/button-deploy-digitalocean.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/southiewusky/littlelink/tree/main)
 
 [![Deploy to Vercel](https://cdn.cottle.cloud/littlelink/button-deploy-vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsethcottle%2Flittlelink&project-name=littlelink&repository-name=littlelink)
 
